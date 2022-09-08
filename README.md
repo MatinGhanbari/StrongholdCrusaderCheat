@@ -1,2 +1,2 @@
 # StrongholdCrusaderCheat
-Stronghold Crusader Cheat Bot using python
+Stronghold Crusader Cheat Bot using python.
