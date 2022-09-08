@@ -1,0 +1,10 @@
+gold = 0x0119DAC8
+bread = 0x1019790
+apple = 0x0102B1E8
+cheese = 0x0102B1E0
+meat = 0x0102B1E4
+wood = 0x00FD7D8C
+stone = 0x0119DA9C
+iron = 0x00FD7744
+spears = 0x010444D4
+bow = 0x0119DAD0
